@@ -61,7 +61,7 @@ inputs:
   avatarMargin:
     description: Margin of user avatar.
     required: false
-    default: 5
+    default: 0
 
   userNameHeight:
     description: Height of user name.
