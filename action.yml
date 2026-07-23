@@ -21,8 +21,8 @@ inputs:
 
   round:
     description: Specify if clip the avatar to rounded or not. Default `true`.
-    required: false
-    default: true
+    required: true
+    default: false
 
   truncate:
     description: Truncate username by specified length, `0` for no truncate.
